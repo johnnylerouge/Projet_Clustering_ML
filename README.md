@@ -1,4 +1,4 @@
-# Objectif
+# Mission
 
 **[Olist](https://olist.com/pt-br/)** est une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
