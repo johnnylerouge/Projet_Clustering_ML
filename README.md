@@ -1,4 +1,4 @@
-# Mission
+## Mission
 
 **[Olist](https://olist.com/pt-br/)** est une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
@@ -10,7 +10,7 @@ Nous allons fournir à l’équipe marketing une **description actionable de not
 
 Pour cette mission, Olist nous fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
-# Compétences validées 
+## Compétences validées 
 
 * Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
 * Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
